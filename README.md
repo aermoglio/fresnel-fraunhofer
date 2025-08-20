@@ -32,7 +32,7 @@ The Monte Carlo method works in the following way:
 ![1d diffraction pattern- Fresnel](images/fresnel1d.png)
 ![1d diffraction pattern - Fraunhofer](images/fraunhofer1d.png)
 ![2d diffraction from square aperture](images/squareaperture.png)
-![2d diffraction from circular aperture](images/circapeture.png)
+![2d diffraction from circular aperture](images/circaperture.png)
 ![Monte carlo 2d circular diffraction](images/montecarlo.png)
 
 ## Skills used
